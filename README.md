@@ -3,8 +3,13 @@
 
 # Code Snips
 
-- [domEvents]
+## domEvents
 <img width="500" alt="domEvents" src="https://i.imgur.com/WZI3GHQ.png">
+
+## data Storage
+<img width="500" alt="dataStorage" src="https://i.imgur.com/Lh08AkG.png">
+
+
 
 # Joke Generator
 
