@@ -8,4 +8,11 @@ const getJoke = async () => {
   return jokeCall.data;
 };
 
-export default getJoke;
+// eslint-disable-next-line import/no-mutable-exports
+let jokeData = {};
+
+const setJokeData = (obj) => {
+  jokeData = obj;
+};
+
+export { getJoke, setJokeData, jokeData };
