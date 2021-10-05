@@ -9,7 +9,11 @@
 ## data Storage
 <img width="500" alt="dataStorage" src="https://i.imgur.com/Lh08AkG.png">
 
-
+# Thanks
+- [Luke](https://github.com/lukus2013) 
+For Rubber Ducking and Referencing
+- [Trinity](https://github.com/TrinityChristiana) 
+For helping me get setup in the right direction
 
 # Joke Generator
 
