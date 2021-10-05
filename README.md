@@ -1,6 +1,11 @@
 # Deploy Link
 - [Deployed AP](https://thejokegen.netlify.app)
 
+# Code Snips
+
+- [domEvents]
+<img width="500" alt="domEvents" src="https://i.imgur.com/WZI3GHQ.png">
+
 # Joke Generator
 
 For this refresher, we are going to build a Joke Generator
